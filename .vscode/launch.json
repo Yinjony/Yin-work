@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LYin/learncpp/.vscode",
-      "program": "c:/Users/LYin/learncpp/.vscode/build/Debug/outDebug",
+      "cwd": "c:/Users/LYin/learncpp/content",
+      "program": "c:/Users/LYin/learncpp/content/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
